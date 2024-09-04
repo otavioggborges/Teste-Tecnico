@@ -9,7 +9,7 @@ Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-[SOLUÇÃO](pyTargetSistemas/test_1.py)
+[SOLUÇÃO](/test_1.py)
 
 ### Desafio 2
 
@@ -17,7 +17,7 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-[SOLUÇÃO](pyTargetSistemas/test_2.py)
+[SOLUÇÃO](/test_2.py)
 
 ### Desafio 3
 
@@ -30,7 +30,7 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-[SOLUÇÃO](pyTargetSistemas/test_3.py)
+[SOLUÇÃO](/test_3.py)
 
 ### Desafio 4
 
@@ -43,7 +43,7 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.  
 
-[SOLUÇÃO](pyTargetSistemas/test_4.py)
+[SOLUÇÃO](/test_4.py)
 
 ### Desafio 5
 
@@ -53,4 +53,4 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-[SOLUÇÃO](pyTargetSistemas/test_5.py)
+[SOLUÇÃO](/test_5.py)
